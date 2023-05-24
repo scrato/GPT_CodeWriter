@@ -1,0 +1,9 @@
+{
+    "dependencies": [ "openssl", "cxxopts", "cpp-httplib" ],
+    "overrides": [
+        {
+            "name": "openssl",
+            "version": "3.0"
+        }
+    ]
+}
